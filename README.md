@@ -1,8 +1,8 @@
 # Thursday 26 November 2026 in One Picture — v8
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261126)
-[![make.fun rank](https://img.shields.io/badge/make.fun-rank-pending-lightgrey)](https://make.fun/bounty/news-image-20261126)
-[![make.fun reward](https://img.shields.io/badge/make.fun-reward-%2420-green)](https://make.fun/bounty/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/sixthin016/news-image-20261126-v8/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/sixthin016/news-image-20261126-v8/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 One image summing up Thursday 26 November 2026: **35 stories, 9 regions,
 15 fields** — every one from that day, in some time zone.
